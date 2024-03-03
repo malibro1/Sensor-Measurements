@@ -35,5 +35,16 @@
 
   # Summary report
   ### MPU-6050
+   - Range:
+   - Sensitivity:
+   - Linearity:
+   - Accuracy:
+   - Drift:
   ### DHT-11
+   - Accuracy:
+   - Range: 
+   - Resolution: 0.1°C
   ### UltraSonic Module
+   - Range: 3cm - 400 cm
+   - Resolution: 0.5 cm
+   - Accuracy: 1% - 5%
