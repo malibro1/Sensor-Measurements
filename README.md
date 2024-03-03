@@ -6,10 +6,10 @@
   This Project was for MRE 320 with Dr. Zhang, Spring 2024, at Southern Illinois University - Edwardsville . This was done by group 3 consisting of Aurora Clark, Malina Brown, and Ethan Zumbahlen. 
 
   # Repository
-  Each folder is labeled with a sensor and in each you will find the Arduino code, the wiring diagram, and pictures of the actual experiment set up. For the testing plans you can see our proposal. Corrections/changes made will be stated in the proposal file as well. To see our findings and testing procedure see our presentation. Corrections/changes made will be stated in the presentation file as well.
+  Each folder is labeled with a sensor and in each you will find the Arduino code, the wiring diagram, and pictures of the actual experiment set up. For the testing plans you can see our [proposal](https://github.com/malibro1/Sensor-Measurements/tree/main/Proposal). Corrections/changes made will be stated in the proposal file as well. To see our findings and testing procedure see our [presentation](https://github.com/malibro1/Sensor-Measurements/tree/main/Presentation). Corrections/changes made will be stated in the presentation file as well.
 
   # Equipment Needed
-  General:
+  _General:_
    
     -	The SunFounder kit 
     -	MPU6050 Module
@@ -22,7 +22,7 @@
     -	Arduino software
     -	Neccesary library (only for DHT-11)
   
-  Specific for our test:
+  _Specific for our test:_
   
     -	Two AcuRite Thermometers
     -	Weather.com
