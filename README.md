@@ -11,7 +11,7 @@
   # Equipment Needed
   _General:_
    
-    -	The SunFounder kit 
+    -	The SunFounder kit (Most of the general equipment comes from this)
     -	MPU6050 Module
     -	DHT-11
     -       Ultrasonic Module
