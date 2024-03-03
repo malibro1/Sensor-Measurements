@@ -34,6 +34,6 @@
 
 
   # Summary report
-  ## MPU-6050
-  ## DHT-11
-  ## UltraSonic Module
+  ### MPU-6050
+  ### DHT-11
+  ### UltraSonic Module
