@@ -1,13 +1,13 @@
 # Sensor Measurement Report 
-  For this project, Sensor Measurement, we where tasked with studying and testing three sensors; MPU6050 module, DHT-11, and Ultrasonic Ranging module.
-  First we had to get familiar with the sensor and write a propsal for testing. For the proposal we had to  summarize our main findings and determine the important characteristics for each sensor. We had to find and show the wiring diagram or a picture of our connected hardware. We had to show the Arduino code and take a screenshot of the readings. Then we had to propose testing plans for each sensor of what we wanted to measure and how.
-  Second we had to conduct testing of the sensors important characteristics. We had to research instructions and procedures, build testing setups and gather the data. Then we had to make a presentation that introduce the fundamentals of the sensor, show the manufacturing specs of the sensors, list the important characteristics for each sensor explaining how they were tested, collect the data, discuss the main findings findings, compare the findings to the manufacturer, and summarize your findings.
-  Lastly we had to make a GitHub to compile all of our findings and testing from the proposal and presentation into one place.
+  For this project, Sensor Measurement, we were tasked with studying and testing three sensors; MPU6050 module, DHT-11, and Ultrasonic Ranging module.
+  First, we had to get familiar with the sensor and write a proposal for testing. For the proposal, we had to  summarize our main findings and determine the important characteristics of each sensor. We had to find and show the wiring diagram or a picture of our connected hardware. We had to show the Arduino code and take a screenshot of the readings. Then we had to propose testing plans for each sensor of what we wanted to measure and how.
+  Second, we had to conduct testing of the sensors' important characteristics. We had to research instructions and procedures, build testing setups, and gather the data. Then we had to make a presentation that introduced the fundamentals of the sensor, showed the manufacturing specs of the sensors, listed the important characteristics of each sensor explained how they were tested, collected the data, discussed the main findings findings, compared the findings to the manufacturer, and summarize your findings.
+  Lastly, we had to make a GitHub to compile all of our findings and testing from the proposal and presentation into one place.
   
-  This Project was for MRE 320 with Dr. Zhang, Spring 2024, at Southern Illinois University - Edwardsville . This was done by group 3 consisting of Aurora Clark, Malina Brown, and Ethan Zumbahlen. 
+  This Project was for MRE 320 with Dr. Zhang, Spring 2024, at Southern Illinois University - Edwardsville. This was done by group 3 consisting of Aurora Clark, Malina Brown, and Ethan Zumbahlen. 
 
   # What's in the Repository
-  There are are five folders and one single file. The single file is the README.md. Three folders are labeled with a sensor ([MPU6050 Module](https://github.com/malibro1/Sensor-Measurements/tree/main/MPU6050%20Module), [DHT-11](https://github.com/malibro1/Sensor-Measurements/tree/main/DHT-11), and [Ultrasonic Ranging Module](https://github.com/malibro1/Sensor-Measurements/tree/main/Ultrasonic%20Ranging%20Module)) and in each you will find the Arduino code, the wiring diagram, and pictures of the actual experiment set up. Another folder is the [proposal](https://github.com/malibro1/Sensor-Measurements/tree/main/Proposal) where you the propsal written for the first part of the project containing sensor findings, code, data screenshot, and testing plans. Also in the proposal folder there's a Corrections & changes file that state corrections/changes made to the proposal. The last folder is the [presentation](https://github.com/malibro1/Sensor-Measurements/tree/main/Presentation) where you'll find manufacturing specs, testing procedure data collected/analyzed, results, and manufacturing comparison. Also in the presentation folder there's a Corrections & changes file that state corrections/changes made to the presentation.
+  There are five folders and one single file. The single file is the README.md. Three folders are labeled with a sensor ([MPU6050 Module](https://github.com/malibro1/Sensor-Measurements/tree/main/MPU6050%20Module), [DHT-11](https://github.com/malibro1/Sensor-Measurements/tree/main/DHT-11), and [Ultrasonic Ranging Module](https://github.com/malibro1/Sensor-Measurements/tree/main/Ultrasonic%20Ranging%20Module)) and in each you will find the Arduino code, the wiring diagram, and pictures of the actual experiment set up. Another folder is the [proposal](https://github.com/malibro1/Sensor-Measurements/tree/main/Proposal) where you the proposal written for the first part of the project containing sensor findings, code, data screenshot, and testing plans. Also in the proposal folder, there's a Corrections & changes file that states corrections/changes made to the proposal. The last folder is the [presentation](https://github.com/malibro1/Sensor-Measurements/tree/main/Presentation) where you'll find manufacturing specs, testing procedure data collected/analyzed, results, and manufacturing comparison. Also in the presentation folder, there's a Corrections & changes file that states corrections/changes made to the presentation.
 
   # Equipment Needed
   _General:_
@@ -21,7 +21,7 @@
     -	Breadboard (only for MPU6050, optional)
     -	Computer/laptop
     -	Arduino software
-    -	Neccesary library (only for DHT-11)
+    -	Necessary library (only for DHT-11)
   
   _Specific for our test:_
   
@@ -29,5 +29,7 @@
     -	Weather.com
     -	measuring tape
     -	wall/garage door
-    -	*equipment for MPU6050 placed here*
-    -       *equipment for MPU6050 placed here*
+    -	*Equipment for MPU6050 placed here*
+    -       *Equipment for MPU6050 placed here*
+
+    # Summary Report
