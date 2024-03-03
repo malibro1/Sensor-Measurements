@@ -31,5 +31,3 @@
     -	wall/garage door
     -	*Equipment for MPU6050 placed here*
     -       *Equipment for MPU6050 placed here*
-
-    # Summary Report
