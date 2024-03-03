@@ -6,8 +6,8 @@
   
   This Project was for MRE 320 with Dr. Zhang, Spring 2024, at Southern Illinois University - Edwardsville . This was done by group 3 consisting of Aurora Clark, Malina Brown, and Ethan Zumbahlen. 
 
-  # Repository
-  Each folder is labeled with a sensor and in each you will find the Arduino code, the wiring diagram, and pictures of the actual experiment set up. For the testing plans you can see our [proposal](https://github.com/malibro1/Sensor-Measurements/tree/main/Proposal). Corrections/changes made will be stated in the proposal file as well. To see our findings and testing procedure see our [presentation](https://github.com/malibro1/Sensor-Measurements/tree/main/Presentation). Corrections/changes made will be stated in the presentation file as well.
+  # What's in the Repository
+  There are are five folders and one single file. The single file is the README.md. Three folders are labeled with a sensor ([MPU6050 Module](https://github.com/malibro1/Sensor-Measurements/tree/main/MPU6050%20Module), [DHT-11](https://github.com/malibro1/Sensor-Measurements/tree/main/DHT-11), and [Ultrasonic Ranging Module](https://github.com/malibro1/Sensor-Measurements/tree/main/Ultrasonic%20Ranging%20Module)) and in each you will find the Arduino code, the wiring diagram, and pictures of the actual experiment set up. Another folder is the [proposal](https://github.com/malibro1/Sensor-Measurements/tree/main/Proposal) where you the propsal written for the first part of the project containing sensor findings, code, data screenshot, and testing plans. Also in the proposal folder there's a Corrections & changes file that state corrections/changes made to the proposal. The last folder is the [presentation](https://github.com/malibro1/Sensor-Measurements/tree/main/Presentation) where you'll find manufacturing specs, testing procedure data collected/analyzed, results, and manufacturing comparison. Corrections/changes made will be stated in the presentation file as well.
 
   # Equipment Needed
   _General:_
