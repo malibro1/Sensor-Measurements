@@ -13,7 +13,7 @@
     -	The SunFounder kit 
     -	MPU6050 Module
     -	DHT-11
-    - Ultrasonic Module
+    -       Ultrasonic Module
     -	Arduino MEGA 2560 board
     -	Several jumper wires (male to male or male to female)
     -	Breadboard (only for MPU6050, optional)
@@ -22,9 +22,10 @@
     -	Neccesary library (only for DHT-11)
   
   Specific for our test:
+  
     -	Two AcuRite Thermometers
     -	Weather.com
     -	measuring tape
     -	wall/garage door
     -	*equipment for MPU6050 placed here*
-    - *equipment for MPU6050 placed here*
+    -       *equipment for MPU6050 placed here*
