@@ -9,6 +9,7 @@
 
   # Equipment Needed
   General:
+   
     -	The SunFounder kit 
     -	MPU6050 Module
     -	DHT-11
