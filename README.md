@@ -9,21 +9,21 @@
 
   # Equipment Needed
   General:
-  •	The SunFounder kit 
-  •	MPU6050 Module
-  •	DHT-11
-  •	 Ultrasonic Module
-  •	Arduino MEGA 2560 board
-  •	Several jumper wires (male to male or male to female)
-  •	Breadboard (only for MPU6050, optional)
-  •	Computer/laptop
-  •	Arduino software
-  •	Neccesary library (only for DHT-11)
+    -	The SunFounder kit 
+    -	MPU6050 Module
+    -	DHT-11
+    - Ultrasonic Module
+    -	Arduino MEGA 2560 board
+    -	Several jumper wires (male to male or male to female)
+    -	Breadboard (only for MPU6050, optional)
+    -	Computer/laptop
+    -	Arduino software
+    -	Neccesary library (only for DHT-11)
   
   Specific for our test:
-  •	Two AcuRite Thermometers
-  •	Weather.com
-  •	measuring tape
-  •	wall/garage door
-  •	*equipment for MPU6050 placed here*
-  • *equipment for MPU6050 placed here*
+    -	Two AcuRite Thermometers
+    -	Weather.com
+    -	measuring tape
+    -	wall/garage door
+    -	*equipment for MPU6050 placed here*
+    - *equipment for MPU6050 placed here*
