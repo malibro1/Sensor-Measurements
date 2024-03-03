@@ -2,8 +2,8 @@ Slide numbers were added
 
 *Add MPU why do specs matter*
 *Add MPU transfer function*
-*Add MPU how are you measuring speed and angle*
-*Add MPU what is acceleration*
+Added MPU the speed and angle were measured
+Shown the equation for MPU acceleration
 
 *Add DHT measurement range*
 The test done with the 3D printer bed was replaced by
