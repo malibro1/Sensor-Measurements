@@ -34,14 +34,14 @@
 
 
   # Summary report
-  ### MPU-6050
+  ### [MPU6050](https://github.com/malibro1/Sensor-Measurements/tree/main/MPU6050%20Module)
    - Range:
    - Sensitivity:
    - Linearity:
    - Accuracy:
    - Drift:
      
-  ### DHT-11
+  ### [DHT-11](https://github.com/malibro1/Sensor-Measurements/tree/main/DHT-11)
    - Accuracy: within 1°C and 1%-2%
         - Percent Error:
             - Indoor Temperature = 1.9% to 17%, Humidity = 11%
