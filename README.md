@@ -40,8 +40,7 @@
   # Summary Report
   ### [MPU6050](https://github.com/malibro1/Sensor-Measurements/tree/main/MPU6050%20Module)
    - Range: 0-90 degrees
-   - Sensitivity:
-   - Linearity:
+   - Linearity and Sensitivity: y = 1.2564x - 5.0036
    - Accuracy: the average of all results divided by the actual measurements results in a 92% accuracy reading 
    - Drift: the results drifted an average of 4 degrees in each direction
      
