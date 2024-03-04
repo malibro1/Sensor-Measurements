@@ -4,6 +4,8 @@ MPU6050:
 Pictures of the experiment setup with explanation were added.
 Added MPU the speed and angle were measured.
 Shown the equation for MPU acceleration.
+A Sensitivity and Linearity graph was added.
+The transfer function was added.
 
 DHT-11:
 The characteristic testing was rewritten to better explain how the test were done.
