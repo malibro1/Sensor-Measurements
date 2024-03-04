@@ -51,7 +51,7 @@
         - Humidity: 46.8% to 100%
    - Resolution: 0.1°C and 0.1%
      
-  ### [UltraSonic Module](
+  ### [UltraSonic Module](https://github.com/malibro1/Sensor-Measurements/tree/main/Ultrasonic%20Ranging%20Module)
    - Range: 3cm - 400 cm
    - Resolution: 0.5 cm
    - Accuracy: 1% - 5%
