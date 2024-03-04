@@ -1,7 +1,8 @@
 MPU6050:
 Accuracy was added to important characteristics.
 Drift was added to important characteristics.
-Added MPU ground truth, actual acceleration
+Added MPU ground truth, actual acceleration.
+Testing plans were expanded upon.
 
 DHT-11:
 The specifications about the new DHT-11 were removed.
