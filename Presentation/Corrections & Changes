@@ -7,7 +7,6 @@ Shown the equation for MPU acceleration.
 
 The characteristic testing was rewritten to better explain how the test were done.
 The test done with the 3D printer bed was replaced by an oven and baking soda.
-The measurements from the oven and baking soda replaced the 3D printer for upper temerature and lower humidity.
 The Acurite indoor/outdoor therometer (white) was now mentioned in the slides.
 AcuRite (white) measurments were added to the table after a new experiment was conducted.
 The manufacturing specifications were added in for both AcuRites. 
@@ -15,5 +14,6 @@ Pictures were added of both Acurites, and the indoor/outdoor pictures were repla
 percent error was added to the results.
 The example picture on results was removed.
 The results were redone to reflect the new data.
+More was added to the accuracy slide, and the range slide was changed.
 
 A slide was added for the Ultrasonic module to show how the test was conducted with pictures.
