@@ -39,11 +39,11 @@
 
   # Summary Report
   ### [MPU6050](https://github.com/malibro1/Sensor-Measurements/tree/main/MPU6050%20Module)
-   - Range:
+   - Range: 0-90 degrees
    - Sensitivity:
    - Linearity:
-   - Accuracy:
-   - Drift:
+   - Accuracy: the average of all results divided by the actual measurements results in a 92% accuracy reading 
+   - Drift: the results drifted an average of 4 degrees in each direction
      
   ### [DHT-11](https://github.com/malibro1/Sensor-Measurements/tree/main/DHT-11)
    - Accuracy: within 1°C and 1%-2%
