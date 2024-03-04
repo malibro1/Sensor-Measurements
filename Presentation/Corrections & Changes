@@ -1,10 +1,12 @@
 Slide numbers were added
 
+MPU6050:
 Pictures of the experiment setup with explanation were added.
 *Add MPU transfer function*
 Added MPU the speed and angle were measured.
 Shown the equation for MPU acceleration.
 
+DHT-11:
 The characteristic testing was rewritten to better explain how the test were done.
 The test done with the 3D printer bed was replaced by an oven and baking soda.
 The Acurite indoor/outdoor therometer (white) was now mentioned in the slides.
@@ -16,4 +18,5 @@ The example picture on results was removed.
 The results were redone to reflect the new data.
 More was added to the accuracy slide, and the range slide was changed.
 
+Ultrasonic:
 A slide was added for the Ultrasonic module to show how the test was conducted with pictures.
