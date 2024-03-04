@@ -27,10 +27,14 @@
   
     -	Two AcuRite Thermometers
     -	Weather.com
+    - Oven
+    - Deep freezer
+    - Shower
+    - Baking soda
     -	measuring tape
     -	wall/garage door
-    -	*Equipment for MPU6050 placed here*
-    -       *Equipment for MPU6050 placed here*
+    -	Protractor
+  
 
 
   # Summary report
