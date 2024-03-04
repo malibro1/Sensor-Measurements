@@ -37,7 +37,7 @@
   
 
 
-  # Summary report
+  # Summary Report
   ### [MPU6050](https://github.com/malibro1/Sensor-Measurements/tree/main/MPU6050%20Module)
    - Range:
    - Sensitivity:
