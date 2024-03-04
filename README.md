@@ -46,7 +46,7 @@
             - Indoor Temperature = 1.9% to 17%, Humidity = 11%
             - Outdoor Temperature = 8.6% to 36.9%  Humidity = 19%
    - Range: Temperature = -0.2°C to 61.9°C
-            Humidity: 46.8% to 100%
+                Humidity: 46.8% to 100%
    - Resolution: 0.1°C and 0.1%
   ### UltraSonic Module
    - Range: 3cm - 400 cm
